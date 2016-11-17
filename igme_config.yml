@@ -1,0 +1,20 @@
+series: Intermediate C++
+title: Exceptions
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Exceptions are used to handle unexpected things that might happen in your code.
+language: C++
+tags:
+  - Core
+extra_resources:
+  - link: https://msdn.microsoft.com/en-us/library/hh279678.aspx
+    title: Errors and Exception Handling (MSDN article)
+  - link: http://softwareengineering.stackexchange.com/questions/113479/are-there-any-real-world-cases-for-c-without-exceptions
+    title: Not using exceptions
+connections:
+  - series: Intermediate C++
+    title: Assertions
+  - series: Basic C++
+    title: Inheritance Slicing
